@@ -5,13 +5,13 @@
 <img src="https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif" height="100">
 
 
-*Uma dev em constante evolução!*
+Uma dev em constante evolução!
 
 </div>
 
 ---
 
-###  *Codando com café e coragem!☕ *
+###  *Codando com café e coragem!☕*
 
 <div style="display: flex; gap: 10px">
 <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white"/>
