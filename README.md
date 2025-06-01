@@ -1,10 +1,13 @@
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/92.png" height="80">
-<img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/93.png" height="80">
-<img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/94.png" height="80">
+<div align="center">
 
-### 👻 Thaynara Rosa - Evoluindo com o código!
+<img src="https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif" height="100">
+<img src="https://media.giphy.com/media/11sBLVxNs7v6WA/giphy.gif" height="100">
+<img src="https://media.giphy.com/media/13borq7Zo2kulO/giphy.gif" height="100">
+
+### 🌸 Olá, eu sou a Thaynara Rosa!
+*Uma dev em constante evolução — com um toque de fofura e muito código!*
 
 </div>
 
