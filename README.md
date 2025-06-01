@@ -11,7 +11,7 @@
 
 ---
 
-### ✨ *Techs - Usando e Aprendendo*
+###  *🤯 Entendendo no susto, mas entendendo haha*
 
 <div style="display: flex; gap: 10px">
 <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white"/>
