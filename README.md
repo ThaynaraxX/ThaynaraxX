@@ -11,7 +11,7 @@
 
 ---
 
-###  *🤯 Entendendo no susto, mas entendendo*
+###  *Codando com café e coragem!☕ *
 
 <div style="display: flex; gap: 10px">
 <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white"/>
